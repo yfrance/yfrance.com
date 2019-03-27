@@ -2,7 +2,7 @@
 
 This the description [yfrance.com](https://yfrance.com)
 
-## Freatures
+## Features
 
 - Home 1
 - Home 2
